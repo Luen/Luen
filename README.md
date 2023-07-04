@@ -9,8 +9,10 @@ I love the outdoors, and often the hobby projects I build are in some way connec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luen&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luen&theme=dark&hide_border=true" width="400">
+  
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=luen&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luen&layout=compact&hide_border=true&langs_count=6&hide=asp,css,scss">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=luen&hide_border=true">
 </p>
 
 ---
