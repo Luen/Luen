@@ -82,6 +82,9 @@ I love the outdoors, and often the hobby projects I build are in some way connec
   <a href="https://grafana.com/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
   </a>
+  <a href="https://nodered.org/" target="_blank" style="text-decoration:none">
+    <img src=" https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white" alt="NodeRed">
+  </a>
 </p>
 
 
