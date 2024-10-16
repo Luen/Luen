@@ -85,6 +85,9 @@ I love the outdoors, and often the hobby projects I build are in some way connec
   <a href="https://nodered.org/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat-square&logo=node-red&logoColor=white" alt="NodeRed">
   </a>
+  <a href="https://www.arduino.cc/" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  </a>
 </p>
 
 
