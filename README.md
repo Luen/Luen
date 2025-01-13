@@ -16,7 +16,8 @@ I love the outdoors, and often the hobby projects I build are in some way connec
   
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=luen&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luen&layout=compact&hide_border=true&langs_count=6&hide=asp,css,scss">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=luen&hide_border=true">
+  <object type="image/svg+xml" data="https://github-readme-streak-stats.herokuapp.com?user=luen&hide_border=true" width="400" aria-label="GitHub Streak">Your browser does not support SVG.</object>
+
 </p>
 
 ---
