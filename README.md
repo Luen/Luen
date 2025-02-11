@@ -1,13 +1,13 @@
 ### Hi there, 👋
 
-[![Website](https://img.shields.io/website?label=luenwarneke.com&style=for-the-badge&url=https%3A%2F%2Fluenwarneke.com)](https://luenwarneke.com)
+<!--[![Website](https://img.shields.io/website?label=luenwarneke.com&style=for-the-badge&url=https%3A%2F%2Fluenwarneke.com)](https://luenwarneke.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me-%230077B5.svg?&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 I love the outdoors, and often the hobby projects I build are in some way connected to nature. 
 
 - 🌐 Visit my [website](https://luenwarneke.com/) for more information and to get in touch.
 - 👋 Check out [Wanderstories](https://wanderstories.space/) for adventure articles and map code.
-- ✍️ Follow me on [YouTube](https://www.youtube.com/@luenwarneke) for more content.
+- ✍️ Follow me on [YouTube](https://www.youtube.com/@luenwarneke) for more content.-->
 
 
 ---
