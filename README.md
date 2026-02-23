@@ -13,13 +13,9 @@ I love the outdoors, and often the hobby projects I build are in some way connec
 ---
 
 <p align="center">
-  ![Stats](./profile/stats.svg)
   <img height="50%" width="auto" src="./profile/stats.svg"><br>
-
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=luen&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs"><br>
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luen&layout=compact&hide_border=true&langs_count=6&hide=asp,css,scss"><br>
+  <img height="50%" width="auto" src="./profile/toplangs.svg"><br>
   <img height="50%" width="auto" src="https://streak-stats.demolab.com/?user=luen&hide_border=true">
-
 </p>
 
 ---
