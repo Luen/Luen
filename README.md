@@ -107,8 +107,8 @@ I love the outdoors, and often the hobby projects I build are in some way connec
     <!--<a href="https://github.com/umap-project/umap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=umap-project&repo=umap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="umap"></a>-->
     <a href="https://github.com/mifi/instauto"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mifi&repo=instauto&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="instauto"></a>
     <a href="https://github.com/robiningelbrecht/statistics-for-strava"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robiningelbrecht&repo=statistics-for-strava&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="instauto"></a>
-    <!--<a href="https://github.com/mifi/SimpleInstaBot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mifi&repo=SimpleInstaBot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SimpleInstaBot"></a>-->
-    <!--<a href="https://github.com/gpxstudio/gpx.studio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gpxstudio&repo=gpx.studio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="gpx.studio"></a>-->
+    <a href="https://github.com/gpxstudio/gpx.studio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gpxstudio&repo=gpx.studio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="gpx.studio"></a>
+
   </p>
   
 </details>
