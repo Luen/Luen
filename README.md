@@ -40,7 +40,7 @@ I love the outdoors, and often the hobby projects I build are in some way connec
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" style="text-decoration:none; display:inline-block">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&logoWidth=20" alt="CSS">
   </a>
   <a href="https://www.php.net/" target="_blank" style="text-decoration:none; display:inline-block">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
