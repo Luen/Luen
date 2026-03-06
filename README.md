@@ -45,6 +45,9 @@ I love the outdoors, and often the hobby projects I build are in some way connec
   <a href="https://www.php.net/" target="_blank" style="text-decoration:none; display:inline-block">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
   </a>
+  <a href="https://go.dev/" target="_blank" style="text-decoration:none; display:inline-block">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go">
+  </a>
   <a href="https://www.rust-lang.org/" target="_blank" style="text-decoration:none; display:inline-block">
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   </a>
