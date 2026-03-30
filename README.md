@@ -101,6 +101,9 @@ I love the outdoors, and often the hobby projects I build are in some way connec
   </a>
 </p>
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,html,css,bash" alt="languages"/>
+</p>
 
 [linkedin]: https://linkedin.com/in/luen-warneke
 
