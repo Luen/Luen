@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Luen Warneke&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 51, Total Commits  (last year) : 1007, Total PRs: 662, Total Issues: 92, Contributed to (last year): 24</desc>
+        <desc id="descId">Total Stars Earned: 51, Total Commits  (last year) : 1019, Total PRs: 662, Total Issues: 143, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.13736061390208;
+        stroke-dashoffset: 60.816620394369;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >92</text>
+      >143</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >24</text>
+      >23</text>
     </g>
   </g>
     </svg>
