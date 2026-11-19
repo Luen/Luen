@@ -51,6 +51,9 @@ I love the outdoors, and often the hobby projects I build are in some way connec
   <a href="https://www.rust-lang.org/" target="_blank" style="text-decoration:none; display:inline-block">
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   </a>
+  <a href="https://dart.dev/" target="_blank" style="text-decoration:none; display:inline-block">
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  </a>
 </p>
 
 <p align="center">
@@ -99,10 +102,22 @@ I love the outdoors, and often the hobby projects I build are in some way connec
   <a href="https://nextjs.org/" target="_blank" style="text-decoration:none; display:inline-block">
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
   </a>
+  <a href="https://flutter.dev/" target="_blank" style="text-decoration:none; display:inline-block">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  </a>
+  <a href="https://svelte.dev/" target="_blank" style="text-decoration:none; display:inline-block">
+    <img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat-square&logo=svelte&logoColor=white" alt="Svelte">
+  </a>
+  <a href="https://kit.svelte.dev/" target="_blank" style="text-decoration:none; display:inline-block">
+    <img src="https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit">
+  </a>
+  <a href="https://vite.dev/" target="_blank" style="text-decoration:none; display:inline-block">
+    <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  </a>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,html,css,bash" alt="languages"/>
+    <img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,html,css,bash,dart,flutter,svelte,vite" alt="languages"/>
 </p>
 
 [linkedin]: https://linkedin.com/in/luen-warneke
